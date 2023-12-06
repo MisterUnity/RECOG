@@ -6,10 +6,8 @@ const path = require("path");
 // const logger = require('morgan');
 const cors = require("cors");
 
-const authRouter = require("./routes/auth");
 const indexRouter = require("./routes/index");
 const googlesheet = require("./routes/sheet");
-// const nodemailer = require(`./routes/email`);
 // const usersRouter = require('./routes/users');
 const { requestStart, requestEnd } = require("./myMiddle"); // Middleware
 const {
@@ -21,12 +19,12 @@ const { errorResp } = require("./response");
 require("./vendor/googlesheet/index"); //googlesheet
 
 const app = express();
+var session = require("express-session");
 
 // view engine setup
 app.set("views", path.join(__dirname, "views"));
 app.set("view engine", "ejs");
 
-app.use("/auth", authRouter);
 // app.use(logger('short'));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
