@@ -1694,3 +1694,161 @@
 12/6/2023, 10:29:32 PM [RECOG-SYS] info: [Detail] Listening on http://localhost:3000
 12/6/2023, 10:35:30 PM [RECOG-SYS] info: [Url] /favicon.ico, [Method] GET, [Detail] ===== Request start =====
 12/6/2023, 10:35:30 PM [RECOG-SYS] info: [Url] /favicon.ico, [Method] GET, [Detail] ===== Request End =====
+2023/12/6 下午9:52:35 [RECOG-SYS] info: [Detail] ===== GoogleSheet module is loading. =====
+2023/12/6 下午9:52:35 [RECOG-SYS] info: [Detail] Listening on http://localhost:3000
+2023/12/6 下午9:52:38 [RECOG-SYS] error: [Detail] [Final Trigger]
+2023/12/6 下午9:52:38 [RECOG-SYS] error: [Detail] TypeError: logger is not a function
+2023/12/6 下午9:52:43 [RECOG-SYS] info: [Url] /, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午9:52:43 [RECOG-SYS] info: [Url] /favicon.ico, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午9:52:43 [RECOG-SYS] info: [Url] /favicon.ico, [Method] GET, [Detail] ===== Request End =====
+2023/12/6 下午9:52:49 [RECOG-SYS] error: [Detail] [Final Trigger]
+2023/12/6 下午9:52:49 [RECOG-SYS] error: [Detail] TypeError: logger is not a function
+2023/12/6 下午9:53:34 [RECOG-SYS] info: [Detail] ===== GoogleSheet module is loading. =====
+2023/12/6 下午9:53:34 [RECOG-SYS] info: [Detail] Listening on http://localhost:3000
+2023/12/6 下午9:53:34 [RECOG-SYS] info: [Detail] authUrl: https://accounts.google.com/o/oauth2/v2/auth?access_type=offline&scope=https%3A%2F%2Fmail.google.com%2F&response_type=code&client_id=860319388232-tncb6kmkc4b3kuetlir6858k5o6u8k64.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth%2Fgoogle%2Fcallback
+2023/12/6 下午9:53:45 [RECOG-SYS] info: [Url] /, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午9:53:45 [RECOG-SYS] info: [Url] /favicon.ico, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午9:53:45 [RECOG-SYS] info: [Url] /favicon.ico, [Method] GET, [Detail] ===== Request End =====
+2023/12/6 下午9:53:49 [RECOG-SYS] info: [Detail] authUrl: https://accounts.google.com/o/oauth2/v2/auth?access_type=offline&scope=https%3A%2F%2Fmail.google.com%2F&response_type=code&client_id=860319388232-tncb6kmkc4b3kuetlir6858k5o6u8k64.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth%2Fgoogle%2Fcallback
+2023/12/6 下午9:53:55 [RECOG-SYS] info: [Url] /favicon.ico, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午9:53:55 [RECOG-SYS] info: [Url] /favicon.ico, [Method] GET, [Detail] ===== Request End =====
+2023/12/6 下午9:55:00 [RECOG-SYS] info: [Detail] ===== GoogleSheet module is loading. =====
+2023/12/6 下午9:55:00 [RECOG-SYS] info: [Detail] Listening on http://localhost:3000
+2023/12/6 下午9:55:04 [RECOG-SYS] info: [Detail] authUrl: https://accounts.google.com/o/oauth2/v2/auth?access_type=offline&scope=https%3A%2F%2Fmail.google.com%2F&response_type=code&client_id=860319388232-tncb6kmkc4b3kuetlir6858k5o6u8k64.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth%2Fgoogle%2Fcallback
+2023/12/6 下午9:55:07 [RECOG-SYS] info: [Detail] code: 4/0AfJohXk3tu121DAYI6KxMZ9H3iz7e7ciQFZKJctfnjDpp0JcdjuzuLbZlssGRVjJ_scAcA
+2023/12/6 下午9:55:07 [RECOG-SYS] info: [Url] /favicon.ico, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午9:55:07 [RECOG-SYS] info: [Url] /favicon.ico, [Method] GET, [Detail] ===== Request End =====
+2023/12/6 下午10:00:25 [RECOG-SYS] info: [Detail] ===== GoogleSheet module is loading. =====
+2023/12/6 下午10:00:25 [RECOG-SYS] info: [Detail] Listening on http://localhost:3000
+2023/12/6 下午10:00:37 [RECOG-SYS] info: [Url] /, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:00:37 [RECOG-SYS] info: [Url] /favicon.ico, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:00:37 [RECOG-SYS] info: [Url] /favicon.ico, [Method] GET, [Detail] ===== Request End =====
+2023/12/6 下午10:00:43 [RECOG-SYS] info: [Detail] authUrl: https://accounts.google.com/o/oauth2/v2/auth?access_type=offline&scope=https%3A%2F%2Fmail.google.com%2F&response_type=code&client_id=860319388232-tncb6kmkc4b3kuetlir6858k5o6u8k64.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth%2Fgoogle%2Fcallback
+2023/12/6 下午10:00:45 [RECOG-SYS] info: [Detail] code: 4/0AfJohXmgYz379QwpKpXnXYb5J_-i7fxWh1eUNp1ZLGaTubGLTZ-1OZjb5g-jp9oDgw74cw
+2023/12/6 下午10:00:46 [RECOG-SYS] info: [Url] /email/user, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:00:46 [RECOG-SYS] info: [Url] /email/user, [Method] GET, [Detail] ===== Request End =====
+2023/12/6 下午10:04:12 [RECOG-SYS] info: [Detail] code: 4/0AfJohXlqrKg3M1NPXvZRAbgZ83EmUeuoe6eQKEixmiIO_A4PpCrqiS4w39C5qzjiYCSYWA
+2023/12/6 下午10:04:12 [RECOG-SYS] info: [Url] /email/user, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:04:12 [RECOG-SYS] info: [Url] /email/user, [Method] GET, [Detail] ===== Request End =====
+2023/12/6 下午10:06:09 [RECOG-SYS] info: [Detail] authUrl: https://accounts.google.com/o/oauth2/v2/auth?access_type=offline&scope=https%3A%2F%2Fmail.google.com%2F&response_type=code&client_id=860319388232-tncb6kmkc4b3kuetlir6858k5o6u8k64.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth%2Fgoogle%2Fcallback
+2023/12/6 下午10:06:50 [RECOG-SYS] info: [Detail] ===== GoogleSheet module is loading. =====
+2023/12/6 下午10:06:50 [RECOG-SYS] info: [Detail] Listening on http://localhost:3000
+2023/12/6 下午10:06:50 [RECOG-SYS] info: [Url] /auth/google/callback?code=4%2F0AfJohXlstWk39IdOXqs_ngWEOsgFU0N6NPY6zCggDYtuF9TK3PiJyRniCbDyFJNiS0M0_Q&scope=https%3A%2F%2Fmail.google.com%2F, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:06:50 [RECOG-SYS] info: [Detail] code: 4/0AfJohXlstWk39IdOXqs_ngWEOsgFU0N6NPY6zCggDYtuF9TK3PiJyRniCbDyFJNiS0M0_Q
+2023/12/6 下午10:06:50 [RECOG-SYS] info: [Url] /email/user, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:06:50 [RECOG-SYS] info: [Url] /email/user, [Method] GET, [Detail] ===== Request End =====
+2023/12/6 下午10:06:53 [RECOG-SYS] info: [Url] /auth/google/callback?code=4%2F0AfJohXmJ4eEIXhwJzdnpxkaKYsHGuoBV1iGOpSMoXomYwq_y-Q7_9HTpFPW_xq1RK27YqQ&scope=https%3A%2F%2Fmail.google.com%2F, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:06:53 [RECOG-SYS] info: [Detail] code: 4/0AfJohXmJ4eEIXhwJzdnpxkaKYsHGuoBV1iGOpSMoXomYwq_y-Q7_9HTpFPW_xq1RK27YqQ
+2023/12/6 下午10:06:54 [RECOG-SYS] info: [Url] /email/user, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:06:54 [RECOG-SYS] info: [Url] /email/user, [Method] GET, [Detail] ===== Request End =====
+2023/12/6 下午10:07:40 [RECOG-SYS] info: [Url] /auth/google/callback, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:07:40 [RECOG-SYS] info: [Detail] code: undefined
+2023/12/6 下午10:07:40 [RECOG-SYS] info: [Url] /favicon.ico, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:07:40 [RECOG-SYS] info: [Url] /favicon.ico, [Method] GET, [Detail] ===== Request End =====
+2023/12/6 下午10:11:20 [RECOG-SYS] info: [Detail] ===== GoogleSheet module is loading. =====
+2023/12/6 下午10:11:20 [RECOG-SYS] info: [Detail] Listening on http://localhost:3000
+2023/12/6 下午10:11:28 [RECOG-SYS] info: [Url] /, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:11:28 [RECOG-SYS] info: [Url] /favicon.ico, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:11:28 [RECOG-SYS] info: [Url] /favicon.ico, [Method] GET, [Detail] ===== Request End =====
+2023/12/6 下午10:11:35 [RECOG-SYS] info: [Url] /auth/login, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:11:35 [RECOG-SYS] info: [Detail] authUrl: https://accounts.google.com/o/oauth2/v2/auth?access_type=offline&scope=https%3A%2F%2Fmail.google.com%2F&response_type=code&client_id=860319388232-tncb6kmkc4b3kuetlir6858k5o6u8k64.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth%2Fgoogle%2Fcallback
+2023/12/6 下午10:11:38 [RECOG-SYS] info: [Url] /auth/google/callback?code=4%2F0AfJohXkdmw0i5rMisQHyKHmf4Ix6ELm3_wFcomgCdbzlSPfQEGo_uVyPsUm9bnedWOHbUQ&scope=https%3A%2F%2Fmail.google.com%2F, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:11:38 [RECOG-SYS] info: [Detail] code: 4/0AfJohXkdmw0i5rMisQHyKHmf4Ix6ELm3_wFcomgCdbzlSPfQEGo_uVyPsUm9bnedWOHbUQ
+2023/12/6 下午10:11:39 [RECOG-SYS] info: [Url] /email/user, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:11:39 [RECOG-SYS] info: [Url] /email/user, [Method] GET, [Detail] ===== Request End =====
+2023/12/6 下午10:14:14 [RECOG-SYS] info: [Detail] ===== GoogleSheet module is loading. =====
+2023/12/6 下午10:14:14 [RECOG-SYS] info: [Detail] Listening on http://localhost:3000
+2023/12/6 下午10:14:14 [RECOG-SYS] info: [Url] /email/user, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:14:14 [RECOG-SYS] info: [Url] /email/user, [Method] GET, [Detail] ===== Request End =====
+2023/12/6 下午10:14:26 [RECOG-SYS] info: [Url] /auth/login, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:14:26 [RECOG-SYS] info: [Detail] authUrl: https://accounts.google.com/o/oauth2/v2/auth?access_type=offline&scope=https%3A%2F%2Fmail.google.com%2F&response_type=code&client_id=860319388232-tncb6kmkc4b3kuetlir6858k5o6u8k64.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth%2Fgoogle%2Fcallback
+2023/12/6 下午10:14:29 [RECOG-SYS] info: [Url] /auth/google/callback?code=4%2F0AfJohXlDUzu5a8k1YAyokkAkbjVNuVB5gr_jKAS3JRNefji_3TMGG9LjJHaL_anwLbsEhQ&scope=https%3A%2F%2Fmail.google.com%2F, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:14:29 [RECOG-SYS] info: [Detail] code: 4/0AfJohXlDUzu5a8k1YAyokkAkbjVNuVB5gr_jKAS3JRNefji_3TMGG9LjJHaL_anwLbsEhQ
+2023/12/6 下午10:14:29 [RECOG-SYS] info: [Url] /, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:14:29 [RECOG-SYS] info: [Url] /favicon.ico, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:14:29 [RECOG-SYS] info: [Url] /favicon.ico, [Method] GET, [Detail] ===== Request End =====
+2023/12/6 下午10:17:03 [RECOG-SYS] info: [Detail] ===== GoogleSheet module is loading. =====
+2023/12/6 下午10:17:03 [RECOG-SYS] info: [Detail] Listening on http://localhost:3000
+2023/12/6 下午10:17:55 [RECOG-SYS] info: [Detail] ===== GoogleSheet module is loading. =====
+2023/12/6 下午10:17:56 [RECOG-SYS] info: [Detail] Listening on http://localhost:3000
+2023/12/6 下午10:18:04 [RECOG-SYS] info: [Url] /sheet/updatedata, [Method] POST, [Detail] ===== Request start =====
+2023/12/6 下午10:18:04 [RECOG-SYS] info: [Url] /sheet/updatedata, [Method] POST, [Detail] ===== Request End =====
+2023/12/6 下午10:18:17 [RECOG-SYS] info: [Url] /sheet/updatedata, [Method] POST, [Detail] ===== Request start =====
+2023/12/6 下午10:18:17 [RECOG-SYS] info: [Url] /sheet/updatedata, [Method] POST, [Detail] ===== Request End =====
+2023/12/6 下午10:18:34 [RECOG-SYS] info: [Url] /email/send-email, [Method] POST, [Detail] ===== Request start =====
+2023/12/6 下午10:18:34 [RECOG-SYS] info: [Url] /email/send-email, [Method] POST, [Detail] ===== Request End =====
+2023/12/6 下午10:18:38 [RECOG-SYS] info: [Url] /email/send-email, [Method] POST, [Detail] ===== Request start =====
+2023/12/6 下午10:18:38 [RECOG-SYS] info: [Url] /email/send-email, [Method] POST, [Detail] ===== Request End =====
+2023/12/6 下午10:22:15 [RECOG-SYS] info: [Detail] ===== GoogleSheet module is loading. =====
+2023/12/6 下午10:22:15 [RECOG-SYS] info: [Detail] Listening on http://localhost:3000
+2023/12/6 下午10:22:17 [RECOG-SYS] info: [Url] /email/send-email, [Method] POST, [Detail] ===== Request start =====
+2023/12/6 下午10:22:17 [RECOG-SYS] info: [Url] /email/send-email, [Method] POST, [Detail] ===== Request End =====
+2023/12/6 下午10:23:04 [RECOG-SYS] info: [Detail] ===== GoogleSheet module is loading. =====
+2023/12/6 下午10:23:04 [RECOG-SYS] info: [Detail] Listening on http://localhost:3000
+2023/12/6 下午10:23:05 [RECOG-SYS] info: [Url] /email/send-email, [Method] POST, [Detail] ===== Request start =====
+2023/12/6 下午10:23:05 [RECOG-SYS] info: [Detail] emailAddress: korbat4625@gmail.com
+2023/12/6 下午10:23:07 [RECOG-SYS] info: [Url] /email/send-email, [Method] POST, [Detail] ===== Request End =====
+2023/12/6 下午10:24:40 [RECOG-SYS] info: [Detail] ===== GoogleSheet module is loading. =====
+2023/12/6 下午10:24:40 [RECOG-SYS] info: [Detail] Listening on http://localhost:3000
+2023/12/6 下午10:24:42 [RECOG-SYS] info: [Url] /email/send-email, [Method] POST, [Detail] ===== Request start =====
+2023/12/6 下午10:24:42 [RECOG-SYS] info: [Detail] emailAddress: korbat4625@gmail.com
+2023/12/6 下午10:24:44 [RECOG-SYS] info: [Detail] error!!! Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials gt7-20020a0566382dc700b004666db50591sm3701583jab.42 - gsmtp
+2023/12/6 下午10:24:44 [RECOG-SYS] info: [Url] /email/send-email, [Method] POST, [Detail] ===== Request End =====
+2023/12/6 下午10:30:18 [RECOG-SYS] info: [Detail] ===== GoogleSheet module is loading. =====
+2023/12/6 下午10:30:18 [RECOG-SYS] info: [Detail] Listening on http://localhost:3000
+2023/12/6 下午10:30:24 [RECOG-SYS] info: [Url] /email/send-email, [Method] POST, [Detail] ===== Request start =====
+2023/12/6 下午10:30:24 [RECOG-SYS] error: [Detail] [Final Trigger]
+2023/12/6 下午10:30:24 [RECOG-SYS] error: [Detail] TypeError: Cannot destructure property 'refresh_token' of 'req.session.tokens' as it is undefined.
+2023/12/6 下午10:31:44 [RECOG-SYS] info: [Url] /auth/login, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:31:44 [RECOG-SYS] info: [Detail] authUrl: https://accounts.google.com/o/oauth2/v2/auth?access_type=offline&scope=https%3A%2F%2Fmail.google.com%2F&response_type=code&client_id=860319388232-tncb6kmkc4b3kuetlir6858k5o6u8k64.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth%2Fgoogle%2Fcallback
+2023/12/6 下午10:31:44 [RECOG-SYS] info: [Url] /email/send-email, [Method] POST, [Detail] ===== Request start =====
+2023/12/6 下午10:31:44 [RECOG-SYS] error: [Detail] [Final Trigger]
+2023/12/6 下午10:31:44 [RECOG-SYS] error: [Detail] TypeError: Cannot destructure property 'refresh_token' of 'req.session.tokens' as it is undefined.
+2023/12/6 下午10:31:56 [RECOG-SYS] info: [Url] /auth/login, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:31:56 [RECOG-SYS] info: [Detail] authUrl: https://accounts.google.com/o/oauth2/v2/auth?access_type=offline&scope=https%3A%2F%2Fmail.google.com%2F&response_type=code&client_id=860319388232-tncb6kmkc4b3kuetlir6858k5o6u8k64.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth%2Fgoogle%2Fcallback
+2023/12/6 下午10:31:56 [RECOG-SYS] info: [Url] /email/send-email, [Method] POST, [Detail] ===== Request start =====
+2023/12/6 下午10:31:56 [RECOG-SYS] error: [Detail] [Final Trigger]
+2023/12/6 下午10:31:56 [RECOG-SYS] error: [Detail] TypeError: Cannot destructure property 'refresh_token' of 'req.session.tokens' as it is undefined.
+2023/12/6 下午10:32:22 [RECOG-SYS] info: [Url] /auth/login, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:32:22 [RECOG-SYS] info: [Detail] authUrl: https://accounts.google.com/o/oauth2/v2/auth?access_type=offline&scope=https%3A%2F%2Fmail.google.com%2F&response_type=code&client_id=860319388232-tncb6kmkc4b3kuetlir6858k5o6u8k64.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth%2Fgoogle%2Fcallback
+2023/12/6 下午10:32:25 [RECOG-SYS] info: [Url] /auth/login, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:32:25 [RECOG-SYS] info: [Detail] authUrl: https://accounts.google.com/o/oauth2/v2/auth?access_type=offline&scope=https%3A%2F%2Fmail.google.com%2F&response_type=code&client_id=860319388232-tncb6kmkc4b3kuetlir6858k5o6u8k64.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth%2Fgoogle%2Fcallback
+2023/12/6 下午10:32:31 [RECOG-SYS] info: [Url] /auth/login, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:32:31 [RECOG-SYS] info: [Detail] authUrl: https://accounts.google.com/o/oauth2/v2/auth?access_type=offline&scope=https%3A%2F%2Fmail.google.com%2F&response_type=code&client_id=860319388232-tncb6kmkc4b3kuetlir6858k5o6u8k64.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth%2Fgoogle%2Fcallback
+2023/12/6 下午10:32:37 [RECOG-SYS] info: [Url] /auth/login, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:32:37 [RECOG-SYS] info: [Detail] authUrl: https://accounts.google.com/o/oauth2/v2/auth?access_type=offline&scope=https%3A%2F%2Fmail.google.com%2F&response_type=code&client_id=860319388232-tncb6kmkc4b3kuetlir6858k5o6u8k64.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth%2Fgoogle%2Fcallback
+2023/12/6 下午10:32:42 [RECOG-SYS] info: [Url] /auth/login, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:32:42 [RECOG-SYS] info: [Detail] authUrl: https://accounts.google.com/o/oauth2/v2/auth?access_type=offline&scope=https%3A%2F%2Fmail.google.com%2F&response_type=code&client_id=860319388232-tncb6kmkc4b3kuetlir6858k5o6u8k64.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth%2Fgoogle%2Fcallback
+2023/12/6 下午10:33:31 [RECOG-SYS] info: [Url] /auth/login, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:33:31 [RECOG-SYS] info: [Detail] authUrl: https://accounts.google.com/o/oauth2/v2/auth?access_type=offline&scope=https%3A%2F%2Fmail.google.com%2F&response_type=code&client_id=860319388232-tncb6kmkc4b3kuetlir6858k5o6u8k64.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth%2Fgoogle%2Fcallback
+2023/12/6 下午10:34:16 [RECOG-SYS] info: [Url] /auth/login, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:34:16 [RECOG-SYS] info: [Detail] authUrl: https://accounts.google.com/o/oauth2/v2/auth?access_type=offline&scope=https%3A%2F%2Fmail.google.com%2F&response_type=code&client_id=860319388232-tncb6kmkc4b3kuetlir6858k5o6u8k64.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth%2Fgoogle%2Fcallback
+2023/12/6 下午10:34:44 [RECOG-SYS] info: [Url] /auth/login, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:34:44 [RECOG-SYS] info: [Detail] authUrl: https://accounts.google.com/o/oauth2/v2/auth?access_type=offline&scope=https%3A%2F%2Fmail.google.com%2F&response_type=code&client_id=860319388232-tncb6kmkc4b3kuetlir6858k5o6u8k64.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth%2Fgoogle%2Fcallback
+2023/12/6 下午10:38:00 [RECOG-SYS] info: [Url] /auth/google/callback?code=4%2F0AfJohXkKjyDXGEjWaNjPRKKq4x1kgJ9_onLZ6Es2Yqnq-DA6y1H1Ia-cNWKKRKUlRV1Dbw&scope=https%3A%2F%2Fmail.google.com%2F, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:38:00 [RECOG-SYS] info: [Detail] code: 4/0AfJohXkKjyDXGEjWaNjPRKKq4x1kgJ9_onLZ6Es2Yqnq-DA6y1H1Ia-cNWKKRKUlRV1Dbw
+2023/12/6 下午10:38:00 [RECOG-SYS] info: [Url] /, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:38:01 [RECOG-SYS] info: [Url] /favicon.ico, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:38:01 [RECOG-SYS] info: [Url] /favicon.ico, [Method] GET, [Detail] ===== Request End =====
+2023/12/6 下午10:38:21 [RECOG-SYS] info: [Url] /email/send-email, [Method] POST, [Detail] ===== Request start =====
+2023/12/6 下午10:38:21 [RECOG-SYS] error: [Detail] [Final Trigger]
+2023/12/6 下午10:38:21 [RECOG-SYS] error: [Detail] TypeError: Cannot destructure property 'refresh_token' of 'req.session.tokens' as it is undefined.
+2023/12/6 下午10:38:24 [RECOG-SYS] info: [Url] /email/send-email, [Method] POST, [Detail] ===== Request start =====
+2023/12/6 下午10:38:24 [RECOG-SYS] error: [Detail] [Final Trigger]
+2023/12/6 下午10:38:24 [RECOG-SYS] error: [Detail] TypeError: Cannot destructure property 'refresh_token' of 'req.session.tokens' as it is undefined.
+2023/12/6 下午10:40:43 [RECOG-SYS] info: [Detail] ===== GoogleSheet module is loading. =====
+2023/12/6 下午10:40:43 [RECOG-SYS] info: [Detail] Listening on http://localhost:3000
+2023/12/6 下午10:40:49 [RECOG-SYS] info: [Url] /auth/login, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:40:49 [RECOG-SYS] info: [Detail] authUrl: https://accounts.google.com/o/oauth2/v2/auth?access_type=offline&scope=https%3A%2F%2Fmail.google.com%2F&response_type=code&client_id=860319388232-tncb6kmkc4b3kuetlir6858k5o6u8k64.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth%2Fgoogle%2Fcallback
+2023/12/6 下午10:40:51 [RECOG-SYS] info: [Url] /auth/google/callback?code=4%2F0AfJohXmpk9ja6Hu7vDiG0VDQWK8wqZKnuxm_sW0E7eqUT8FthVqWpscDXaEIvvmUQ2SFUg&scope=https%3A%2F%2Fmail.google.com%2F, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:40:51 [RECOG-SYS] info: [Detail] code: 4/0AfJohXmpk9ja6Hu7vDiG0VDQWK8wqZKnuxm_sW0E7eqUT8FthVqWpscDXaEIvvmUQ2SFUg
+2023/12/6 下午10:40:51 [RECOG-SYS] info: [Url] /, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:40:52 [RECOG-SYS] info: [Url] /favicon.ico, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午10:40:52 [RECOG-SYS] info: [Url] /favicon.ico, [Method] GET, [Detail] ===== Request End =====
+2023/12/6 下午11:47:35 [RECOG-SYS] info: [Detail] ===== GoogleSheet module is loading. =====
+2023/12/6 下午11:47:35 [RECOG-SYS] info: [Detail] Listening on http://localhost:3000
+2023/12/6 下午11:47:52 [RECOG-SYS] info: [Url] /, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午11:47:52 [RECOG-SYS] info: [Url] /favicon.ico, [Method] GET, [Detail] ===== Request start =====
+2023/12/6 下午11:47:52 [RECOG-SYS] info: [Url] /favicon.ico, [Method] GET, [Detail] ===== Request End =====
+2023/12/6 下午11:48:13 [RECOG-SYS] info: [Url] /email/send-email, [Method] POST, [Detail] ===== Request start =====
