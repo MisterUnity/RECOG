@@ -1,20 +1,20 @@
 module.exports = {
-  errorResp(){
+  errorResp() {
     return {
       status: 0,
-      result: 'Some error occured !!'
-    }
+      result: "Some error occurred !!",
+    };
   },
-  normalResp(){
+  normalResp() {
     return {
       status: 1,
-      result: 'Normal end.'
-    }
+      result: "Normal end.",
+    };
   },
-  normalRespWithData (data) {
+  normalRespWithData(data) {
     return {
       status: 1,
-      result: data
-    }
-  }
+      result: data,
+    };
+  },
 };
