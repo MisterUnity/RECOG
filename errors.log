@@ -101,3 +101,17 @@
 12/6/2023, 5:26:16 PM [RECOG-SYS] error: [Detail] Error: Requested writing within range [evaluationList!A2:C2], but tried writing to column [E]
 12/6/2023, 5:27:37 PM [RECOG-SYS] error: [Detail] [Final Trigger]
 12/6/2023, 5:27:37 PM [RECOG-SYS] error: [Detail] Error: Requested writing within range [evaluationList!A2:C2], but tried writing to column [E]
+2023/12/6 下午9:52:38 [RECOG-SYS] error: [Detail] [Final Trigger]
+2023/12/6 下午9:52:38 [RECOG-SYS] error: [Detail] TypeError: logger is not a function
+2023/12/6 下午9:52:49 [RECOG-SYS] error: [Detail] [Final Trigger]
+2023/12/6 下午9:52:49 [RECOG-SYS] error: [Detail] TypeError: logger is not a function
+2023/12/6 下午10:30:24 [RECOG-SYS] error: [Detail] [Final Trigger]
+2023/12/6 下午10:30:24 [RECOG-SYS] error: [Detail] TypeError: Cannot destructure property 'refresh_token' of 'req.session.tokens' as it is undefined.
+2023/12/6 下午10:31:44 [RECOG-SYS] error: [Detail] [Final Trigger]
+2023/12/6 下午10:31:44 [RECOG-SYS] error: [Detail] TypeError: Cannot destructure property 'refresh_token' of 'req.session.tokens' as it is undefined.
+2023/12/6 下午10:31:56 [RECOG-SYS] error: [Detail] [Final Trigger]
+2023/12/6 下午10:31:56 [RECOG-SYS] error: [Detail] TypeError: Cannot destructure property 'refresh_token' of 'req.session.tokens' as it is undefined.
+2023/12/6 下午10:38:21 [RECOG-SYS] error: [Detail] [Final Trigger]
+2023/12/6 下午10:38:21 [RECOG-SYS] error: [Detail] TypeError: Cannot destructure property 'refresh_token' of 'req.session.tokens' as it is undefined.
+2023/12/6 下午10:38:24 [RECOG-SYS] error: [Detail] [Final Trigger]
+2023/12/6 下午10:38:24 [RECOG-SYS] error: [Detail] TypeError: Cannot destructure property 'refresh_token' of 'req.session.tokens' as it is undefined.

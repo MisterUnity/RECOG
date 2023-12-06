@@ -2,12 +2,13 @@ require("dotenv").config();
 const createError = require("http-errors");
 const express = require("express");
 const path = require("path");
-// const cookieParser = require('cookie-parser');
+const cookieParser = require("cookie-parser");
 // const logger = require('morgan');
 const cors = require("cors");
-
+const session = require("express-session");
 const indexRouter = require("./routes/index");
 const googlesheet = require("./routes/sheet");
+const nodemailer = require(`./routes/email`);
 // const usersRouter = require('./routes/users');
 const { requestStart, requestEnd } = require("./myMiddle"); // Middleware
 const {
@@ -25,10 +26,19 @@ var session = require("express-session");
 app.set("views", path.join(__dirname, "views"));
 app.set("view engine", "ejs");
 
+app.use(
+  session({
+    secret: "keyboard cat",
+    resave: false,
+    saveUninitialized: true,
+    cookie: { secure: false },
+  })
+);
+
 // app.use(logger('short'));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
-// app.use(cookieParser());
+app.use(cookieParser());
 app.use(express.static(path.join(__dirname, "public")));
 app.use(cors());
 
@@ -38,6 +48,7 @@ app.use(requestStart);
 // === Enable API Route List ===
 app.use("/", indexRouter);
 app.use("/sheet", googlesheet);
+app.use("/email", nodemailer);
 // app.use('/users', usersRouter);
 // === Enable API Route List ===
 
