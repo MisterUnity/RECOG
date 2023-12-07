@@ -115,3 +115,48 @@
 2023/12/6 下午10:38:21 [RECOG-SYS] error: [Detail] TypeError: Cannot destructure property 'refresh_token' of 'req.session.tokens' as it is undefined.
 2023/12/6 下午10:38:24 [RECOG-SYS] error: [Detail] [Final Trigger]
 2023/12/6 下午10:38:24 [RECOG-SYS] error: [Detail] TypeError: Cannot destructure property 'refresh_token' of 'req.session.tokens' as it is undefined.
+12/7/2023, 10:32:53 AM [RECOG-SYS] error: [Detail] [Final Trigger]
+12/7/2023, 10:32:53 AM [RECOG-SYS] error: [Detail] Error: connect ETIMEDOUT 129.148.178.40:25
+12/7/2023, 10:33:37 AM [RECOG-SYS] error: [Detail] [Final Trigger]
+12/7/2023, 10:33:37 AM [RECOG-SYS] error: [Detail] Error: connect ETIMEDOUT 129.148.178.40:25
+12/7/2023, 10:37:49 AM [RECOG-SYS] error: [Detail] [Final Trigger]
+12/7/2023, 10:37:49 AM [RECOG-SYS] error: [Detail] Error: connect ETIMEDOUT 129.148.178.40:25
+12/7/2023, 10:49:49 AM [RECOG-SYS] error: [Detail] [Final Trigger]
+12/7/2023, 10:49:49 AM [RECOG-SYS] error: [Detail] Error: connect ETIMEDOUT 129.148.178.40:25
+12/7/2023, 10:50:42 AM [RECOG-SYS] error: [Detail] [Final Trigger]
+12/7/2023, 10:50:42 AM [RECOG-SYS] error: [Detail] Error: connect ETIMEDOUT 129.148.178.40:25
+12/7/2023, 2:30:42 PM [RECOG-SYS] error: [Detail] [Final Trigger]
+12/7/2023, 2:30:42 PM [RECOG-SYS] error: [Detail] Error: connect ETIMEDOUT 129.148.178.40:25
+12/7/2023, 2:44:21 PM [RECOG-SYS] error: [Detail] [Final Trigger]
+12/7/2023, 2:44:21 PM [RECOG-SYS] error: [Detail] Error: connect ETIMEDOUT 129.148.178.40:25
+12/7/2023, 3:40:56 PM [RECOG-SYS] error: [Detail] [Final Trigger]
+12/7/2023, 3:40:56 PM [RECOG-SYS] error: [Detail] Error: connect ETIMEDOUT 129.148.178.40:25
+12/7/2023, 4:50:23 PM [RECOG-SYS] error: [Detail] [Final Trigger]
+12/7/2023, 4:50:23 PM [RECOG-SYS] error: [Detail] Error: connect ETIMEDOUT 129.148.178.40:25
+12/7/2023, 4:56:21 PM [RECOG-SYS] error: [Detail] [Final Trigger]
+12/7/2023, 4:56:21 PM [RECOG-SYS] error: [Detail] Error: connect ETIMEDOUT 129.148.178.40:25
+12/7/2023, 8:07:15 PM [RECOG-SYS] error: [Detail] [Final Trigger]
+12/7/2023, 8:07:15 PM [RECOG-SYS] error: [Detail] Error: connect ETIMEDOUT 129.148.178.40:25
+12/7/2023, 8:10:00 PM [RECOG-SYS] error: [Detail] [Final Trigger]
+12/7/2023, 8:10:00 PM [RECOG-SYS] error: [Detail] Error: connect ETIMEDOUT 129.148.178.40:25
+12/7/2023, 10:59:19 PM [RECOG-SYS] error: [Detail] [Final Trigger]
+12/7/2023, 10:59:19 PM [RECOG-SYS] error: [Detail] Error: connect ETIMEDOUT 129.148.178.40:25
+12/7/2023, 11:04:35 PM [RECOG-SYS] error: [Detail] [Final Trigger]
+12/7/2023, 11:04:35 PM [RECOG-SYS] error: [Detail] Error: connect ETIMEDOUT 129.148.178.40:25
+12/7/2023, 11:08:46 PM [RECOG-SYS] error: [Detail] SEND-EMAIL-ERROR:Error: connect ETIMEDOUT 129.148.178.40:25
+12/7/2023, 11:08:46 PM [RECOG-SYS] error: [Detail] [Final Trigger]
+12/7/2023, 11:08:46 PM [RECOG-SYS] error: [Detail] Error: connect ETIMEDOUT 129.148.178.40:25
+12/7/2023, 11:12:37 PM [RECOG-SYS] error: [Detail] SEND-EMAIL-ERROR:Error: connect ETIMEDOUT 129.148.178.40:25
+12/7/2023, 11:12:37 PM [RECOG-SYS] error: [Detail] [Final Trigger]
+12/7/2023, 11:12:37 PM [RECOG-SYS] error: [Detail] Error: connect ETIMEDOUT 129.148.178.40:25
+12/7/2023, 11:20:51 PM [RECOG-SYS] error: [Detail] SEND-EMAIL-ERROR:Error: connect ETIMEDOUT 129.148.178.40:25
+12/7/2023, 11:20:51 PM [RECOG-SYS] error: [Detail] [Final Trigger]
+12/7/2023, 11:20:51 PM [RECOG-SYS] error: [Detail] Error: connect ETIMEDOUT 129.148.178.40:25
+12/7/2023, 11:25:21 PM [RECOG-SYS] error: [Detail] SEND-EMAIL-ERROR:Error: connect ETIMEDOUT 129.148.178.40:25
+12/7/2023, 11:25:21 PM [RECOG-SYS] error: [Detail] [Final Trigger]
+12/7/2023, 11:25:21 PM [RECOG-SYS] error: [Detail] Error: connect ETIMEDOUT 129.148.178.40:25
+12/7/2023, 11:50:38 PM [RECOG-SYS] error: [Detail] SEND-EMAIL-ERROR:Error: connect ETIMEDOUT 129.148.178.40:465
+12/7/2023, 11:50:38 PM [RECOG-SYS] error: [Detail] [Final Trigger]
+12/7/2023, 11:50:38 PM [RECOG-SYS] error: [Detail] Error: connect ETIMEDOUT 129.148.178.40:465
+12/7/2023, 11:51:48 PM [RECOG-SYS] error: [Detail] [Final Trigger]
+12/7/2023, 11:51:48 PM [RECOG-SYS] error: [Detail] ReferenceError: normalResp is not defined
