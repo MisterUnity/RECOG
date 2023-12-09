@@ -38,10 +38,8 @@ async function sendTo(emailAddress) {
 
 router.post("/send-email", async (req, res, next) => {
   try {
-    logger.info(normalLoggerFormat(`SEND-EMAIL-START`));
     const { emailAddress } = req.body;
     await sendTo(emailAddress);
-    logger.info(normalLoggerFormat(`SEND-EMAIL-END`));
     res.status = 200;
     res.send(normalResp());
     next();
